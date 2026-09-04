@@ -1,0 +1,6 @@
+{
+  "name": "Agile Consultancy",
+  "description": "A high-end company registration, tax compliance, and business licensing platform specializing in Zimbabwe statutory corporate services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
